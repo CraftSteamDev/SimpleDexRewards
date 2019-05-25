@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "pokedexrewards",
+    "name": "Pokedexrewards",
+    "description": "Rewards for filling up the pokedex.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "CraftSteamG"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      "pixelmon"
+    ]
+  }
+]
